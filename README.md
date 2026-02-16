@@ -9,4 +9,4 @@ This project studies a hydraulically driven crane. The crane is modeled using So
 ## 💻 Report
 
 You can find report here:  
-📁 [Report (pdf File)](docs/Report.pdf)
+📁 [Report (pdf File)](/docs/Report.pdf)

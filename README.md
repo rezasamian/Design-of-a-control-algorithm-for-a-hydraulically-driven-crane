@@ -5,6 +5,9 @@ This project studies a hydraulically driven crane. The crane is modeled using So
 ## 🎬 System Demonstration
 ![Crane Demo](Crane.gif)
 
+## Simulink schematic
+![Simulink schematic](simulink.jpg)
+
 
 ## 💻 Report
 
